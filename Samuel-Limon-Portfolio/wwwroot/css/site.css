@@ -61,6 +61,9 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 .footer {
   position: absolute;
@@ -68,4 +71,31 @@ body {
   width: 100%;
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
+}
+
+/* Custom CSS
+--------------------------------------------------*/
+
+.bg {
+    width: 100%;
+    z-index: 0;
+}
+
+.jumbotron {
+    padding: 5px;
+    margin: 0px auto;
+    width: 100%;
+    background: #7986cb;
+    background-image: url("images/landingpage.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+
 }

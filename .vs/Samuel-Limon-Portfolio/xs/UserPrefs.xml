@@ -1,7 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6B7152FC-1223-49CF-93E2-AD03160CE5D5}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Samuel-Limon-Portfolio/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Samuel-Limon-Portfolio/wwwroot/css/site.css" Line="87" Column="17" />
+      <File FileName="Samuel-Limon-Portfolio/Pages/Index.cshtml" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +10,11 @@
           <Node name="Samuel-Limon-Portfolio" expanded="True">
             <Node name="Samuel-Limon-Portfolio" expanded="True">
               <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
                 <Node name="Index.cshtml" expanded="True" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -17,7 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Samuel-Limon-Portfolio FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Samuel-Limon-Portfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
